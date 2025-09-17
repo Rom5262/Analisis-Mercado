@@ -30,10 +30,15 @@ El análisis de datos incluye preprocesamiento, visualización de métricas acum
 
 #### 🛒 Diferencia en el Número de Pedidos por Usuario (Conversión)
 * **Conclusión:** Se encontró una diferencia estadísticamente significativa. El Grupo B realizó un **13.8%** más de pedidos en promedio que el Grupo A.
-* **Valor P:** [Aquí va el valor p de la prueba Mann-Whitney U para orders]
+* **Valor P:** Con un valor de 0.017, que es menor al nivel de significancia de 0.05, podemos afirmar que la diferencia en el número de pedidos por usuario entre los grupos es estadísticamente significativa. 
+Esto sugiere que la estrategia implementada fue efectiva y tuvo un impacto positivo en la tasa de pedidos
 
 ---
 
 ### 🚀 Recomendación Final
 
 Basado en los resultados, la mejor decisión es **continuar la prueba durante un período de tiempo adicional**. Esto nos permitirá recopilar más datos, lo que podría confirmar de manera más sólida la superioridad de uno de los grupos y validar si la diferencia en el número de pedidos se mantiene a largo plazo.
+
+## Autor
+
+-   **Nombre:** Rom5262
